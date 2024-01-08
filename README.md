@@ -1,6 +1,7 @@
 SafeNav Project
 
 Executive Summary
+
 SafeNav is a comprehensive initiative analyzing Ottawa's traffic collision data from 2017 to 2022. The project leverages temporal analysis to enhance safety strategies and understand the factors impacting road incidents. The objective is proactive intervention in traffic safety measures, aiming to reduce accidents and make informed decisions.
 
 
